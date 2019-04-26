@@ -1,8 +1,0 @@
-/home/rui/files/CLionProjects/ffmpeg_exmaple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/rui/files/CLionProjects/ffmpeg_exmaple/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/rui/files/CLionProjects/ffmpeg_exmaple/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
-/home/rui/files/CLionProjects/ffmpeg_exmaple/cmake-build-debug/src/CMakeFiles/ffmpeg.dir
-/home/rui/files/CLionProjects/ffmpeg_exmaple/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-/home/rui/files/CLionProjects/ffmpeg_exmaple/cmake-build-debug/examples/CMakeFiles/rebuild_cache.dir
-/home/rui/files/CLionProjects/ffmpeg_exmaple/cmake-build-debug/examples/CMakeFiles/read_video.dir
-/home/rui/files/CLionProjects/ffmpeg_exmaple/cmake-build-debug/examples/CMakeFiles/edit_cache.dir

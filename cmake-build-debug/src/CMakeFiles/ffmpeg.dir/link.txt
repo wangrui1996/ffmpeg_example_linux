@@ -1,2 +1,0 @@
-/usr/bin/ar qc libffmpeg.a  CMakeFiles/ffmpeg.dir/VideoCapture.cpp.o
-/usr/bin/ranlib libffmpeg.a

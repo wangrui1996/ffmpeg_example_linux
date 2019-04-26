@@ -1,2 +1,0 @@
-/usr/bin/ar qc libvideocapture.a  CMakeFiles/videocapture.dir/VideoCapture.cpp.o
-/usr/bin/ranlib libvideocapture.a
